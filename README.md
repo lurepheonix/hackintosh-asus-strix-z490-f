@@ -36,10 +36,10 @@
 ### Working
 - [x] CPU/Motnerboard
 - [x] Integrated graphics [Intel UHD 630]
-- [x] Discrete graphics (Radeon RX 580)
-- [x] Audio [Realtek ALCS1200A]
+- [x] Discrete graphics [Radeon RX 580]
+- [x] Audio [Realtek ALCS1220A]
 - [x] Intel i225-V Ethernet (with kext)
-- [x] Shutdown&restart
+- [x] Shutdown/restart
 - [x] Sleep/wake
 - [x] USB
 - [x] Power management
